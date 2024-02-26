@@ -17,7 +17,7 @@ const displayCountries = countries => {
 }
 
 
-//get data and set it to html
+//get data and set it to html hahah
 const getCountry = (country) => {
     console.log(country);
     return `
